@@ -1,4 +1,4 @@
-![Ilustracion_sin_titulo](https://user-images.githubusercontent.com/72667996/135727201-5b63e67c-6a1b-4c54-b0d0-5a4e608f3bc7.jpg)
+![Ilustracion_sin_titulo](https://user-images.githubusercontent.com/72667996/135730717-5d08e247-a024-4012-a882-39f3d3d492e4.jpg)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mjpllano&label=Profile%20views&color=0e75b6&style=flat" alt="mjpllano" /> </p>
 
