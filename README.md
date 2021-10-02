@@ -1,5 +1,4 @@
-![image1](https://user-images.githubusercontent.com/72667996/127769039-1e70a1c4-faa7-4c3e-b940-6a51eec64cac.jpg)
-<h3 align="center">computer engineering student and future fronted developer</h3>
+![Ilustracion_sin_titulo](https://user-images.githubusercontent.com/72667996/135727201-5b63e67c-6a1b-4c54-b0d0-5a4e608f3bc7.jpg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mjpllano&label=Profile%20views&color=0e75b6&style=flat" alt="mjpllano" /> </p>
 
