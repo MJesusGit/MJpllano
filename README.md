@@ -1,4 +1,6 @@
-![Ilustracion_sin_titulo](https://user-images.githubusercontent.com/72667996/144290457-2b63d48d-4913-4a32-a92b-7f39faec6462.png)
+
+![photo1643221754](https://user-images.githubusercontent.com/72667996/151224450-0d8b53d8-5939-41a2-86b9-96a3e512bdde.jpeg)
+
 
 <details>
     <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
